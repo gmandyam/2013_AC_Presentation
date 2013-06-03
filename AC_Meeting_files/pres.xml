@@ -1,0 +1,56 @@
+<xml xmlns:v="urn:schemas-microsoft-com:vml"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:p="urn:schemas-microsoft-com:office:powerpoint"
+ xmlns:oa="urn:schemas-microsoft-com:office:activation">
+ <p:presentation sizeof="screen" gridspacingx="49152" gridspacingy="49152"
+  subsetembed="1">
+  <p:master id="3" slidesn="0,0" type="main" href="master03.htm"
+   xmlhref="master03.xml" template="Office Theme" layout="title_body"
+   slots="title,body,dateTime,footer,slideNumber">
+   <p:schemes>
+   </p:schemes>
+  </p:master>
+  <p:master id="15" slidesn="0,0" type="main" href="master15.htm"
+   xmlhref="master15.xml" template="blank" layout="title_body"
+   slots="title,body,dateTime,footer,slideNumber">
+   <p:schemes>
+   </p:schemes>
+  </p:master>
+  <p:master id="26" slidesn="0,0" type="main" href="master26.htm"
+   xmlhref="master26.xml" template="1_Office Theme" layout="title_body"
+   slots="title,body,dateTime,footer,slideNumber">
+   <p:schemes>
+   </p:schemes>
+  </p:master>
+  <p:master id="38" slidesn="0,0" type="main" href="master38.htm"
+   xmlhref="master38.xml" template="1_blank" layout="title_body"
+   slots="title,body,dateTime,footer,slideNumber">
+   <p:schemes>
+   </p:schemes>
+  </p:master>
+  <p:master id="39" slidesn="0,0" type="main" href="master39.htm"
+   xmlhref="master39.xml" template="2_blank" layout="title_body"
+   slots="title,body,dateTime,footer,slideNumber">
+   <p:schemes>
+   </p:schemes>
+  </p:master>
+  <p:master id="40" slidesn="0,0" type="main" href="master40.htm"
+   xmlhref="master40.xml" template="3_blank" layout="title_body"
+   slots="title,body,dateTime,footer,slideNumber">
+   <p:schemes>
+   </p:schemes>
+  </p:master>
+  <p:slide id="1" slidesn="0,0" href="slide0001.htm"/>
+  <p:slide id="2" slidesn="0,0" href="slide0002.htm"/>
+  <p:slide id="3" slidesn="0,0" href="slide0003.htm" masterhref="master15.htm"/>
+  <p:slide id="4" slidesn="0,0" href="slide0004.htm" masterhref="master26.htm"/>
+  <p:slide id="5" slidesn="0,0" href="slide0005.htm" masterhref="master26.htm"/>
+  <p:slide id="6" slidesn="0,0" href="slide0006.htm" masterhref="master26.htm"/>
+  <p:slide id="7" slidesn="0,0" href="slide0007.htm" masterhref="master26.htm"/>
+  <p:viewstate type="slideView" restoredleft="156" restoredtop="946"
+   hideoutlineicons="t"/>
+  <p:pptdocumentsettings framecolors="WhiteTextOnBlack" hideslideanimation="t"
+   browsersupport="v4"/>
+ </p:presentation>
+ <o:shapedefaults v:ext="edit" spidmax="13316"/>
+</xml>
